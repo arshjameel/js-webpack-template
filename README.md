@@ -3,18 +3,10 @@ A template repository for quick webpack config setup
 
 ## Setup Instructions
 
-Clone the template:
+Clone and cd into the template repo, then install all dependencies:
 ```bash
 git clone git@github.com:arshjameel/js-webpack-template.git
-```
-
-cd into the template repo:
-```bash
 cd js-webpack-template
-```
-
-Install all dependencies:
-```bash
 npm install
 ```
 
